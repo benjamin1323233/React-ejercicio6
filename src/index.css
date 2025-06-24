@@ -1,0 +1,17 @@
+.cajaColorForm{
+  width: 100px;
+  height: 100px;
+
+  border-radius: 50px;
+}
+.cajaForm{
+  display: flex;
+  flex-direction: row;
+}
+.cajaColorItem{
+  width: 150px;
+  height: 150px;
+  background: #0b22a5;
+
+  border-radius: 40px;
+}
